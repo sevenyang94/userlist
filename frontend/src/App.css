@@ -1,0 +1,43 @@
+.page-btn {
+  margin: 3px;
+  padding-left: 9px;
+  padding-right: 9px;
+  border-radius: 6px;
+  font-weight: bolder;
+}
+
+.container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  width: 98%;
+}
+
+.l {
+  cursor:pointer;
+  color:blue;
+  text-decoration:underline;
+}
+.btn-group { 
+  position:absolute;
+  top: 2%;
+  right: 2%;
+}
+
+.loadbar { 
+  position: relative;
+  left:50%;
+}
+.loading {
+  position: absolute;
+  right: 50%;
+}
+.title {
+  position: absolute;
+  left: 50%;
+}
+.table {
+  position: absolute;
+  top: 10%;
+  overflow: "auto";
+}
