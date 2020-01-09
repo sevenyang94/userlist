@@ -1,4 +1,4 @@
 # userlist
-##React project
-###Using React and Redux to create a user managment system
+## React project
+### Using React and Redux to create a user managment system
 
